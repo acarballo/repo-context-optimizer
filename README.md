@@ -52,6 +52,7 @@ pip install -e ".[dev]"
 
 ```bash
 rco --version
+python -m rco.cli --version
 ```
 
 ---
